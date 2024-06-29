@@ -2,7 +2,7 @@ import telebot
 import requests
 
 
-bot = telebot.TeleBot('7265436151:AAEog4GADfNxLLRJ0Be9OY_jhYoFaXdVhqc')
+bot = telebot.TeleBot('7265436151:AAGtkg7dyZto-1hjyAKdrRvnOVL2xqCUpN0')
 
 start_txt = 'Привет! Это бот прогноза погоды. \n\nОтправьте боту название города и он скажет, какая там температура и как она ощущается.'
 
